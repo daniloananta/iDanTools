@@ -13,7 +13,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### chmod +x Dan.py
 
-### python ddos-attack.py
+### python Dan.py
 
 ###YouTube channel
 
